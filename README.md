@@ -1,4 +1,4 @@
-## Hello there 👋
+<!--## "Fuck power levels! Fuck super sayians! And fuck you! SHIN KIKOHO!" -Tien-->
 
 **Samuli Lahdenperä**
 
