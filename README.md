@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there 👋
+
+**Samuli Lahdenperä**
+Olen toisen vuoden tieto- ja viestintätekniikan opiskelija LABissa. 
 
 <!--
 **SamuliLab/SamuliLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
