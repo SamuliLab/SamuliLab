@@ -1,6 +1,7 @@
 ## Hello there 👋
 
 **Samuli Lahdenperä**
+
 Olen toisen vuoden tieto- ja viestintätekniikan opiskelija LABissa. 
 
 <!--
